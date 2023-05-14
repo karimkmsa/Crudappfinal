@@ -20,7 +20,8 @@ To get started, follow these steps:
 
 4. Wait a minute or so until the application starts up. Once it's ready, you can access it by visiting the following link in your web browser.
 
-        http://localhost:5000/.
+        http://localhost:5000/. to run api 
+        http://localhost:3000/. to run frontend 
 
 ## Features
 
