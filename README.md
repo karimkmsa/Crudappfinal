@@ -13,12 +13,17 @@ To get started, follow these steps:
 2. Navigate to the cloned repository:-
 
         cd Crudappfinal
+3. dont forget to install modules :- 
+   
+   npm init 
+   npm install node
+   npm install express.js 
 
-3. Start the Docker containers:-
+4. Start the Docker containers:-
 
         docker-compose up
 
-4. Wait a minute or so until the application starts up. Once it's ready, you can access it by visiting the following link in your web browser.
+5. Wait a minute or so until the application starts up. Once it's ready, you can access it by visiting the following link in your web browser.
 
         http://localhost:5000/. to run api 
         http://localhost:3000/. to run frontend 
